@@ -15,7 +15,7 @@ These are modular, customizable Arch Linux bootstrap scripts inspired by the Arc
 ## Usage
 
 ```bash
-git clone https://github.com/yourusername/arch-setup.git
+git clone https://github.com/ablfaxl/arch-architect.git
 cd arch-setup
 
 # Run initial setup scripts (partitioning, timezone, etc)
