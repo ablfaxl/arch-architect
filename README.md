@@ -1,7 +1,7 @@
 # Architect - Arch Linux Bootstrap Scripts
 
-<div align="center">
-  <img src="./arch.jpg" width="400" alt="Architect Logo">
+<div align="left">
+  <img src="./arch.jpg" width="500" alt="Architect Logo">
 </div>
 
 ## Overview
